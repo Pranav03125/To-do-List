@@ -1,1 +1,1 @@
-# To-do-List
+My Project TO-DO list is an user friendly project made for user to track their tasks and perform effectively ,this project is made using HTML,CSS,JAVA SCRIPT .user enter the task and click on add button and the task will be displaed below ,you can create as many tasks you wanted.This project can be remoduled by adding additional features such as setting duration for a particular task and reminding the user about the task deadline
